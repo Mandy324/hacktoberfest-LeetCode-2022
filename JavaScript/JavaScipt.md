@@ -1,0 +1,1 @@
+# This is JavaScript File Folder so please only add solutions in JavaScript language
