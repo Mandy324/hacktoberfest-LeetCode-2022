@@ -14,7 +14,7 @@ This event is for Coders as well for NON-Coders too!
 - I am looking for people who can contribute to this project by adding problems with solutions.
 - The purpose of this repository is to collect solutions for the problems that are available in the LeetCode in various different languages.<br>
  - The accepted languages are :. Java, Python, C, C++, JavaScript, Ruby, Swift, Kotlin. 
-#### - Details about what type of contributions will be accepted are mentioned in the CONTRIBUTING.md file, please refer that else your contribution will not be accepted.
+#### - Details about what type of contributions will be accepted are mentioned in the CONTRIBUTING.md file, please refer that else your contribution will not be accepted. <a href = "CONTRIBUTING.md" target="_blank"> click here </a> to open the file.  
 
 
 ## About this repository
