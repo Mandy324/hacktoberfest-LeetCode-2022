@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<iostream>
 
 /*
 1. Two Sum
